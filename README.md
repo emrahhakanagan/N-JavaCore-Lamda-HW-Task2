@@ -1,1 +1,4 @@
-# N-JavaCore-Lamda-HW-Task2
+## --- NETOLOGY HOMEWORK ---
+### JAVA CORE
+
+#### --> Task 2 Worker
